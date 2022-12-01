@@ -9,7 +9,7 @@ export default function Home() {
   const user = {
     id : 1,
     email : "marc.pizzanelli@protonmail.com",
-    name: "marc",
+    name: "Marc",
     isAdmin: false
 }
 
