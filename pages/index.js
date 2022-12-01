@@ -8,8 +8,8 @@ import Title from '../Components/Title'
 export default function Home() {
   const user = {
     id : 1,
-    email : "alexis.cuvillier@protonmail.com",
-    name: "Alexis",
+    email : "marc.pizzanelli@protonmail.com",
+    name: "marc",
     isAdmin: false
 }
 
